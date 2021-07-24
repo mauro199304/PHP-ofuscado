@@ -1,0 +1,2 @@
+# PHP-ofuscado
+codigo ofuscado
